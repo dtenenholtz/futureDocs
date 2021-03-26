@@ -42,18 +42,18 @@ Information to include:
 ## 4. Add the seed to a collection
 * Make a [new collection](https://support.archive-it.org/hc/en-us/articles/207999936-Create-and-manage-a-collection) in Archive-It if needed 
 * Add collection metadata using [UGA Web Archives Metadata Profile](https://github.com/uga-libraries/web-archiving/blob/master/metadata_profile.md).
-* Add the seeds to a collection. A seed may only belong to one collection.
+* [Add the seed to a collection](https://support.archive-it.org/hc/en-us/articles/208331753-Select-Seed-URLs).
 
 ## 5. Crawl the seed
 If the Archive-It quota is getting low, do not crawl lower priority sites unless there is sufficient quota remaining at the end of the subscription year.
 
-* Add the seed to the crawl (from the collection's seed list).
+* Add the seed to the crawl ([from the collection's seed list](https://support.archive-it.org/hc/en-us/articles/208001026-Manually-start-test-and-one-time-crawls)).
 * Run as a test crawl.
 * Select the seed type, generally Standard.
-* Adjust the scoping rules.
+* Adjust the [scoping rules](https://support.archive-it.org/hc/en-us/articles/360015086931-Modify-your-collection-or-seed-scope).
 * If desired, only capture PDFs.
-* Run a test crawl.
-* You can monitor a crawl as it runs and cancel it with the "Stop Crawl" button if needed.
+* Start the crawl.
+* You can cancel a crawl with the "Stop Crawl" button if needed.
 
 ## 6. Quality assurance of the crawl
 You have 60 days to review and save a test crawl before the content (but not its crawl reports) are deleted.
