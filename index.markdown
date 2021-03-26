@@ -12,7 +12,7 @@ nav_order: 1
 - LibreOffice Calc
 
 ### Method:
-1. n bash, create a list of the filenames of the archival collection you are processing (paths included); redirect to write to a text file.
+1. In bash, create a list of the filenames of the archival collection you are processing (paths included); redirect to write to a text file.
 2. In LibreOffice Calc, copy/paste the contents of that text file into Column A, and into Column B too.
 3. Make Column A header "original filename". Make Column B header "new filename"
 4. Select all of Column B. Using Find + Replace with regex, make changes you want to any filenames (replacing `$` with `USD`, for example)
