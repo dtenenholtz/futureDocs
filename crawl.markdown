@@ -50,7 +50,7 @@ If the Archive-It quota is getting low, do not crawl lower priority sites unless
 * Add the seed to the crawl (from the collection's seed list).
 * Run as a test crawl.
 * Select the seed type, generally Standard.
-* Adjust the scoping rules. See scoping guidance for specific types of sites, using regular expressions to exclude other languages from Twitter, include or exclude parts of the seed site or linked sites. If necessary, address robots.txt exclusions
+* Adjust the scoping rules.
 * If desired, only capture PDFs.
 * Run a test crawl.
 * You can monitor a crawl as it runs and cancel it with the "Stop Crawl" button if needed.
