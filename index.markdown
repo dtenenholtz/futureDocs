@@ -1,6 +1,7 @@
 ---
-title: Front Page
+title: File Renaming in Bulk
 layout: default
+has_children: true
 nav_order: 1
 ---
 
