@@ -2,7 +2,6 @@
 title: Crawl
 layout: default
 nav_order: 2
----
 <details open markdown="block">
   <summary>
     Table of contents
@@ -11,6 +10,8 @@ nav_order: 2
 1. TOC
 {:toc}
 </details>
+---
+
 
 # Crawling a Website
 
