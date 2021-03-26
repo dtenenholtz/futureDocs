@@ -3,6 +3,7 @@ title: Crawl
 layout: default
 nav_order: 2
 ---
+{:toc}
 
 # Crawling a Website
 
